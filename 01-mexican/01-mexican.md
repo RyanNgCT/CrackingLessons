@@ -2,7 +2,9 @@
 
 ## Method A: Set ZF
 
-![CrackMe1](https://user-images.githubusercontent.com/48358569/150632782-7253a454-071f-4a72-8823-c825744ef3b8.png)
+![image](https://user-images.githubusercontent.com/48358569/150633403-51630235-1e89-40c6-97f5-9e92ed44b0f4.png)
+
+Change ZF from `0x0` to `0x1`
 
 ## Method B: Patch Jump
 
