@@ -9,3 +9,11 @@
 `jle -> jnz`
 
 ![image](https://user-images.githubusercontent.com/48358569/150633164-b15205ca-cced-4642-bfbd-3975fa2bb89b.png)
+
+
+## Using x32dbg
+
+<to fill>
+  
+  
+Flag: `flag{M3x1c4nMl4lw4r3_pl3rro}`
