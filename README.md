@@ -7,5 +7,5 @@ Patch Opcode Reference: https://www.felixcloutier.com/x86/jcc
 ## Notes
 
 ```
-Program Entry Point = Entry Point + Base Address in DiE
+Program Entry Point = Entry Point + Image Base in DiE
 ```
