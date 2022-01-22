@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/48358569/150633403-51630235-1e89-40c6-97f5-9e92ed44b0f4.png)
 
-Change ZF from `0x0` to `0x1`
+Change ZF from `0x1` to `0x0`
 
 ## Method B: Patch Jump
 
